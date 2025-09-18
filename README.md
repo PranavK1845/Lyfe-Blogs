@@ -15,4 +15,4 @@ Personal Growth, Career Tips, Web Design, and more.
 <br>
 Preview of the website :
 
-[LyfeBlogs](https://pranavk1845.github.io/Code-Clause-Project1/Project1/index.html)
+[LyfeBlogs](https://pranavk1845.github.io/Lyfe-Blogs/index.html)
